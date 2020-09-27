@@ -4,7 +4,7 @@ Installing Ubuntu operating system
 - ## Downlaod Ubuntu
 https://ubuntu.com/download/desktop
 
-
+![6](https://user-images.githubusercontent.com/39980537/94357265-3adcde80-004c-11eb-9281-836caea246f6.png)
 
 - ## Download Vitualbox to host linux operating system on your computer
 https://www.virtualbox.org/
