@@ -18,6 +18,10 @@ https://www.virtualbox.org/
 
 ![filltheform](https://user-images.githubusercontent.com/39980537/94356918-c81e3400-0048-11eb-9ccf-a0d1c69b2615.png)
 
+- ## Aloacte memory to the vm
+![memory](https://user-images.githubusercontent.com/39980537/94357000-dcaefc00-0049-11eb-92df-37897bc4bceb.png)
+
+
 
 
 
