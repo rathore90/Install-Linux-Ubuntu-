@@ -18,8 +18,11 @@ https://www.virtualbox.org/
 
 ![filltheform](https://user-images.githubusercontent.com/39980537/94356918-c81e3400-0048-11eb-9ccf-a0d1c69b2615.png)
 
-- ## Aloacte memory to the vm
+- ## Aloacte memory to the vm and create virtual hard disk
 ![memory](https://user-images.githubusercontent.com/39980537/94357000-dcaefc00-0049-11eb-92df-37897bc4bceb.png)
+
+![harddisk](https://user-images.githubusercontent.com/39980537/94357035-27307880-004a-11eb-98db-24a5c852ee63.png)
+
 
 
 
