@@ -23,6 +23,11 @@ https://www.virtualbox.org/
 
 ![harddisk](https://user-images.githubusercontent.com/39980537/94357035-27307880-004a-11eb-98db-24a5c852ee63.png)
 
+- ## Virtual machine is setup
+
+![installed](https://user-images.githubusercontent.com/39980537/94357089-a4f48400-004a-11eb-9b9f-7d32d6f2d619.png)
+
+
 
 
 
