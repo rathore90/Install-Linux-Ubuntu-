@@ -27,6 +27,12 @@ https://www.virtualbox.org/
 
 ![installed](https://user-images.githubusercontent.com/39980537/94357089-a4f48400-004a-11eb-9b9f-7d32d6f2d619.png)
 
+- ## Double click on the virtual machine, and install ubuntu 
+
+![image](https://user-images.githubusercontent.com/39980537/94357153-1fbd9f00-004b-11eb-8b8f-998906b81168.png)
+
+
+
 
 
 
