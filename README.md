@@ -14,5 +14,10 @@ https://www.virtualbox.org/
 
 ![New](https://user-images.githubusercontent.com/39980537/94356876-50e8a000-0048-11eb-9675-375fc2fc9eef.png)
 
+## Fill the name, type and version of the operating system
+
+![filltheform](https://user-images.githubusercontent.com/39980537/94356918-c81e3400-0048-11eb-9ccf-a0d1c69b2615.png)
+
+
 
 
