@@ -10,3 +10,9 @@ https://www.virtualbox.org/
 
 ![Screenshot 2020-09-26 222542](https://user-images.githubusercontent.com/39980537/94356825-7f19b000-0047-11eb-9ee8-6a782594faeb.png)
 
+## Open virtualbox and hit New to create a new VMs
+
+![New](https://user-images.githubusercontent.com/39980537/94356876-50e8a000-0048-11eb-9675-375fc2fc9eef.png)
+
+
+
