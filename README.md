@@ -38,6 +38,11 @@ https://www.virtualbox.org/
 
 ![4](https://user-images.githubusercontent.com/39980537/94357205-922e7f00-004b-11eb-9f81-3f91b192468d.png)
 
+![7](https://user-images.githubusercontent.com/39980537/94357553-a7f17380-004e-11eb-9ab4-b16462fbc9cc.png)
+
+- ## Ubuntu Installed
+![8](https://user-images.githubusercontent.com/39980537/94357568-cce5e680-004e-11eb-89c3-2aa676fc1b2e.png)
+
 
 
 
