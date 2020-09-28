@@ -54,6 +54,10 @@ sudo apt install build-essential dkms linux-hearders-$(uname -r)
 
 ![2](https://user-images.githubusercontent.com/39980537/94394085-4fcf7580-0111-11eb-876d-272e7edcd550.png)
 
+## Make sure that the status should have the blue icon, not the turtle icon. If you have the turtle icon, it make your hyoer-v is enable. You will have to disable the Hyper-v Hypervision. Otherwise, your installation keeps crashing. 
+
+![2](https://user-images.githubusercontent.com/39980537/94394925-5959dd00-0113-11eb-811f-38a832beb872.png)
+
 
 # Basic Commands
 
