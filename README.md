@@ -50,6 +50,10 @@ https://www.virtualbox.org/
 ## To get the full screen, you will have to run the following command in the terminal to install packages
 sudo apt install build-essential dkms linux-hearders-$(uname -r)
 
+## After installing the packages, hit Devices(Top toolbar), hit "Insert Guest Addition CD Image", hit run, and restart it.
+
+![2](https://user-images.githubusercontent.com/39980537/94394085-4fcf7580-0111-11eb-876d-272e7edcd550.png)
+
 
 # Basic Commands
 
