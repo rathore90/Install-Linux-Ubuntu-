@@ -47,7 +47,15 @@ https://www.virtualbox.org/
 
 ![1](https://user-images.githubusercontent.com/39980537/94393286-72608f00-010f-11eb-95b0-e657ab0b28f0.png)
 
-## To get the full
+## To get the full screen, you will have to run the following command in the terminal to install packages
+sudo apt install build-essential dkms linux-hearders-$(uname -r)
+
+
+# Basic Commands
+
+## To update password
+
+pkexec passwd $USER
 
 
 
