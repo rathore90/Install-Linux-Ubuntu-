@@ -61,6 +61,11 @@ sudo apt install build-essential dkms linux-hearders-$(uname -r)
 
 pkexec passwd $USER
 
+## Change these advance settings to "Bidirectional" to copy paste across both operating system
+
+![2](https://user-images.githubusercontent.com/39980537/94394507-5ad6d580-0112-11eb-9588-dbf4b796a41c.png)
+
+
 
 
 
