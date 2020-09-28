@@ -43,6 +43,12 @@ https://www.virtualbox.org/
 - ## Ubuntu Installed
 ![8](https://user-images.githubusercontent.com/39980537/94357568-cce5e680-004e-11eb-89c3-2aa676fc1b2e.png)
 
+## When you maximize your screen, you will get this result. 
+
+![1](https://user-images.githubusercontent.com/39980537/94393286-72608f00-010f-11eb-95b0-e657ab0b28f0.png)
+
+## To get the full
+
 
 
 
